@@ -1,0 +1,92 @@
+NDB006
+The number of symbol table entries is: 1
+The length of the symbol table is: 13
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+
+The number of name info structs is : 80
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	13	1	:231	$;
+#	IeEA	!	13	1	:233	$=
+$	IeEA	!	13	1	:246	$J
+%	IeEA	!	13	1	:250	$N
+&	IeEA	!	13	1	:251	$O
+'	IeEA	!	13	1	:252	$P
+(	IeEA	!	13	1	:267	$_
+)	IeEA	!	13	1	:269	$a
+*	IeEA	!	13	1	:282	$n
++	IeEA	!	13	1	:286	$r
+,	IeEA	!	13	1	:287	$s
+-	IeEA	!	13	1	:288	$t
+.	IeEA	!	13	1	:303	%%
+/	IeEA	!	13	1	:305	%'
+0	IeEA	!	13	1	:318	%4
+1	IeEA	!	13	1	:322	%8
+2	IeEA	!	13	1	:323	%9
+3	IeEA	!	13	1	:324	%:
+4	IeEA	!	13	1	:339	%I
+5	IeEA	!	13	1	:341	%K
+6	IeEA	!	13	1	:354	%X
+7	IeEA	!	13	1	:358	%\
+8	IeEA	!	13	1	:359	%]
+9	IeEA	!	13	1	:360	%^
+:	IeEA	!	13	1	:375	%m
+;	IeEA	!	13	1	:377	%o
+<	IeEA	!	13	1	:390	%|
+=	IeEA	!	13	1	:394	&"
+>	IeEA	!	13	1	:395	&#
+?	IeEA	!	13	1	:396	&$
+@	L8ef	!	6	17	30	A	B	C	Q	R	S	T	U	V	W	X	Z	^	_	`	a	b	c	d	e	[	f	j	k	l	m	n	o	p	q	cin	o
+A	Nj's	!	9	17	1	cout	"!
+B	"<R?c	!	8	17	s0	!	s0	~
+C	"AW!{	!	8	17	3	s1	!	s1	}
+D	"<R?c	!	8	17	s2	!	s2	|
+E	"<R?c	!	8	17	s3	!	s3	{
+F	"AW!{	!	8	17	2	s4	!	s4	z
+G	"?%_n	!	7	17	30	A	B	C	Q	R	S	T	U	V	W	X	Z	^	_	`	a	b	c	d	e	[	f	j	k	l	m	n	o	p	q	x0	!	x0	t
+H	"?%_n	!	7	17	33	A	C	Q	R	S	T	U	V	W	X	Y	Z	^	_	a	b	c	d	e	[	\	]	f	j	k	l	m	n	o	p	q	g	h	x1	!	x1	s
+I	"?%_n	!	7	17	31	A	Q	R	S	T	U	V	W	X	Y	Z	^	`	a	b	d	e	[	\	]	f	j	k	m	n	o	p	q	g	h	i	x2	!	x2	r
+J	"?%_n	!	7	17	27	A	F	T	U	V	W	X	Y	Z	^	_	a	b	c	d	[	\	]	f	j	m	n	o	q	g	h	i	x3	!	x3	q
+K	"?%_n	!	7	17	22	A	F	Z	^	_	`	a	b	c	d	e	[	\	]	f	j	k	l	q	g	h	i	x4	!	x4	p
+L	"?%_n	!	7	17	30	A	B	C	Q	R	S	T	U	V	W	X	Z	^	_	`	a	b	c	d	e	[	f	j	k	l	m	n	o	p	q	y0	!	y0	y
+M	"?%_n	!	7	17	32	A	C	Q	R	S	T	U	W	X	Y	Z	^	`	a	b	c	d	e	[	\	]	f	j	k	l	m	n	o	p	q	g	h	y1	!	y1	x
+N	"?%_n	!	7	17	26	D	U	V	W	X	Y	^	_	`	c	d	e	[	\	]	f	j	k	l	n	o	p	q	g	h	i	y2	!	y2	w
+O	"?%_n	!	7	17	19	E	F	_	`	a	d	e	[	\	]	j	k	l	o	p	q	g	h	i	y3	!	y3	v
+P	"?%_n	!	7	17	9	F	m	n	o	p	q	g	h	i	y4	!	y4	u
+Q	Q<Im	!	13	1	1	D	1	~305~1	,q
+R	Q<Im	!	13	1	1	D	1	~305~2	-#
+S	L7gU	!	13	1	1	D	~305~3	-3
+T	Q<Im	!	13	1	1	E	1	~341~1	,9
+U	Q<Im	!	13	1	1	E	1	~341~2	,=
+V	Q<Im	!	13	1	1	E	1	~341~3	,A
+W	Q<Im	!	13	1	1	E	1	~341~4	,i
+X	Q<Im	!	13	1	1	E	1	~341~5	,y
+Y	Q<Im	!	13	1	1	E	1	~341~6	-+
+Z	Q<Im	!	13	1	1	F	1	~377~1	+o
+[	Q<Im	!	13	1	1	F	1	~377~10	,5
+\	Q<Im	!	13	1	1	F	1	~377~11	,u
+]	Q<Im	!	13	1	1	F	1	~377~12	-'
+^	Q<Im	!	13	1	1	F	1	~377~2	+s
+_	Q<Im	!	13	1	1	F	1	~377~3	+w
+`	Q<Im	!	13	1	1	F	1	~377~4	+{
+a	Q<Im	!	13	1	1	F	1	~377~5	,!
+b	Q<Im	!	13	1	1	F	1	~377~6	,%
+c	Q<Im	!	13	1	1	F	1	~377~7	,)
+d	Q<Im	!	13	1	1	F	1	~377~8	,-
+e	Q<Im	!	13	1	1	F	1	~377~9	,1
+f	Q<Im	!	13	1	1	A	1	~396~1	,E
+g	Q<Im	!	13	1	1	A	1	~396~10	,m
+h	Q<Im	!	13	1	1	A	1	~396~11	,}
+i	L7gU	!	13	1	1	A	~396~12	-/
+j	Q<Im	!	13	1	1	A	1	~396~2	,I
+k	Q<Im	!	13	1	1	A	1	~396~3	,M
+l	Q<Im	!	13	1	1	A	1	~396~4	,Q
+m	Q<Im	!	13	1	1	A	1	~396~5	,U
+n	Q<Im	!	13	1	1	A	1	~396~6	,Y
+o	Q<Im	!	13	1	1	A	1	~396~7	,]
+p	Q<Im	!	13	1	1	A	1	~396~8	,a
+q	Q<Im	!	13	1	1	A	1	~396~9	,e

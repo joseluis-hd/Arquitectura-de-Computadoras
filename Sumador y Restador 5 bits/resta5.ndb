@@ -1,0 +1,96 @@
+NDB006
+The number of symbol table entries is: 2
+The length of the symbol table is: 27
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|sumador5:U0|
+
+The number of name info structs is : 83
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	14	1	:108	#0
+#	IeEA	!	14	1	:120	#<
+$	IeEA	!	14	1	:132	#H
+%	IeEA	!	14	1	:84	"v
+&	IeEA	!	14	1	:96	#$
+'	Nj's	!	11	9	3	cout	"!
+(	"<R?c	!	10	9	s0	!	s0	~
+)	"<R?c	!	10	9	s1	!	s1	}
+*	"<R?c	!	10	9	s2	!	s2	|
++	"<R?c	!	10	9	s3	!	s3	{
+,	"AW!{	!	10	9	2	s4	!	s4	z
+-	L8ef	!	8	9	12	'	Z	_	`	a	e	f	g	n	o	,	q	w	o
+.	"?%_n	!	9	9	8	Z	_	`	a	e	f	g	(	x0	!	x0	t
+/	"?%_n	!	9	9	7	Z	_	`	a	e	f	g	x1	!	x1	s
+0	"?%_n	!	9	9	6	_	`	a	e	f	g	x2	!	x2	r
+1	"?%_n	!	9	9	1	q	x3	!	x3	q
+2	"?%_n	!	9	9	4	'	n	o	,	x4	!	x4	p
+3	"?%_n	!	9	9	8	Z	_	`	a	e	f	g	(	y0	!	y0	y
+4	"?%_n	!	9	9	7	_	`	a	e	f	g	)	y1	!	y1	x
+5	"?%_n	!	9	9	4	e	f	g	*	y2	!	y2	w
+6	"?%_n	!	9	9	6	'	i	n	o	+	,	y3	!	y3	v
+7	"?%_n	!	9	9	2	'	,	y4	!	y4	u
+8	IeEA	.	13	1	:231	&2
+9	IeEA	.	13	1	:233	&4
+:	IeEA	.	13	1	:246	&A
+;	IeEA	.	13	1	:250	&E
+<	IeEA	.	13	1	:251	&F
+=	IeEA	.	13	1	:252	&G
+>	IeEA	.	13	1	:267	&V
+?	IeEA	.	13	1	:269	&X
+@	IeEA	.	13	1	:282	&e
+A	IeEA	.	13	1	:286	&i
+B	IeEA	.	13	1	:287	&j
+C	IeEA	.	13	1	:288	&k
+D	IeEA	.	13	1	:303	&z
+E	IeEA	.	13	1	:305	&|
+F	IeEA	.	13	1	:318	'+
+G	IeEA	.	13	1	:322	'/
+H	IeEA	.	13	1	:323	'0
+I	IeEA	.	13	1	:324	'1
+J	IeEA	.	13	1	:339	'@
+K	IeEA	.	13	1	:341	'B
+L	IeEA	.	13	1	:354	'O
+M	IeEA	.	13	1	:358	'S
+N	IeEA	.	13	1	:359	'T
+O	IeEA	.	13	1	:360	'U
+P	IeEA	.	13	1	:375	'd
+Q	IeEA	.	13	1	:377	'f
+R	IeEA	.	13	1	:390	's
+S	IeEA	.	13	1	:394	'w
+T	IeEA	.	13	1	:395	'x
+U	IeEA	.	13	1	:396	'y
+V	IdL3	.	13	1	~246~1	&A
+W	IdL3	.	13	1	~250~1	&E
+X	IdL3	.	13	1	~251~1	&F
+Y	IdL3	.	13	1	~252~1	&G
+Z	Q<Im	.	13	1	1	)	1	~269~1	,A
+[	IdL3	.	13	1	~282~1	&e
+\	IdL3	.	13	1	~286~1	&i
+]	IdL3	.	13	1	~287~1	&j
+^	IdL3	.	13	1	~288~1	&k
+_	Q<Im	.	13	1	1	*	1	~305~1	,)
+`	Q<Im	.	13	1	1	*	1	~305~2	,5
+a	L7gU	.	13	1	1	*	~305~3	,E
+b	IdL3	.	13	1	~318~1	'+
+c	IdL3	.	13	1	~322~1	'/
+d	IdL3	.	13	1	~323~1	'0
+e	Q<O9	.	13	1	5	'	n	o	+	,	4	~324~1	'1
+f	Q<Im	.	13	1	1	e	1	~324~2	,-
+g	Q<Im	.	13	1	1	e	1	~324~3	,9
+h	IdL3	.	13	1	~354~1	'O
+i	L7m!	.	13	1	4	'	n	o	,	~358~1	'S
+j	IdL3	.	13	1	~359~1	'T
+k	IdL3	.	13	1	~360~1	'U
+l	IdL3	.	13	1	~375~1	'd
+m	IdL3	.	13	1	~377~1	'f
+n	Q<Im	.	13	1	1	,	1	~377~1~2	,1
+o	Q<Im	.	13	1	1	,	1	~377~1~3	,=
+p	IdL3	!	14	1	~108~1	#0
+q	L7m!	!	14	1	5	'	i	n	o	+	~120~1	#<
+r	IdL3	!	14	1	~132~1	#H
+s	IdL3	!	14	1	~84~1	"v
+t	IdL3	!	14	1	~96~1	#$
